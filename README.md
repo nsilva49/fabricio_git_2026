@@ -12,5 +12,9 @@ Criação de repositório
 
 
 
-\### Episódio 02 - Instalação no ambiente Mac
+\### Episódio 02 - Instalação Mac
+
+
+
+\### Episódio 02 - Instalação Linox
 
