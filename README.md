@@ -4,11 +4,11 @@ Criação de repositório
 
 
 
-\## Aula 01
+\## Aula 01 - Instalação
 
 
 
-\### Episódio 01
+\### Episódio 01 - Instalação Windows
 
 
 
