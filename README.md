@@ -12,5 +12,5 @@ Criação de repositório
 
 
 
-\### Episódio 02
+\### Episódio 02 - Instalação no ambiente Mac
 
