@@ -4,13 +4,17 @@ Criação de repositório
 
 
 
-\## Aula 01
+\## Aula 01 - Instalação
 
 
 
-\### Episódio 01
+\### Episódio 01 - Instalação Windows
 
 
 
-\### Episódio 02
+\### Episódio 02 - Instalação Mac
+
+
+
+\### Episódio 02 - Instalação Linox
 
